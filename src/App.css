@@ -1,0 +1,51 @@
+body {
+  background-color: #282c34;
+}
+
+.App {
+  min-height: 100vh;
+  color: white;
+  padding: 0 10px;
+
+}
+
+.App-header {
+  font-size: calc(20px + 2vmin);
+  text-align: center;
+
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+hr {
+  background: white;
+  border: 1px solid white;
+}
+
+table {
+  margin-bottom: 10px;
+}
+
+
+/* button {
+  background: white;
+  border: 1px solid black;
+  color: black;
+  transition: all 0.1s linear;
+} */
+
+/* button:focus {
+  outline: 0;
+} */
+
+/* button:hover {
+  background: black;
+  color: white;
+
+} */
