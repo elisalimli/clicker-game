@@ -1,1 +1,1 @@
-Clicker game created with react
+# Clicker game created with react
